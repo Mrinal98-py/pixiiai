@@ -1,0 +1,1 @@
+window.aui.amd_define("@amzn/aui-common.functions",(function(){"use strict";var e={};Object.defineProperty(e,"__esModule",{value:!0});return e.default=e=>({generateUniqueId:()=>crypto.randomUUID()||""})}));
